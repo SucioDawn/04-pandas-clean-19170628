@@ -1,0 +1,8 @@
+{
+	"extensions": [
+		"GrapeCity.gc-excelviewer",
+		"GitHub.copilot",
+		"ms-python.python"
+	],
+	"postCreateCommand": "pip install -r requirements.txt"
+}
